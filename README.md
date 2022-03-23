@@ -1,2 +1,1 @@
-# Prim_API
-A HTML API
+# Prim API
