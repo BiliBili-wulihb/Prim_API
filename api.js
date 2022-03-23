@@ -4,3 +4,6 @@ document.getElementById("test_plugin").innerHTML="Hello World"
 function golink(){
   window.location.href=link;
 }
+$(document).ready(function(e){
+  $('#test_plugin').html('Hello World');
+})
